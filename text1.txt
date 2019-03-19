@@ -1,0 +1,14 @@
+1
+1
+1
+
+def one():
+    return a+b
+
+
+2
+2
+2
+
+def foo():
+   pass
